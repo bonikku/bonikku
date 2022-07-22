@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikola!</h1>
 <h3 align="center">Motivated and eager to learn junior web developer</h3>
 
-<p> Currently exploring nodeJS and Azure cloud. In my free time I continue creating my portfolio in Rails and learn more advanced CSS. Ultimately In greater future I want to become a fullstack developer. </p>
+<p> Currently exploring nodeJS and Azure cloud. In my free time I continue creating my portfolio in Rails and learn more advanced CSS. Ultimately in a future I want to become a fullstack developer. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
